@@ -3,23 +3,7 @@ I had done this project in Implement the same region disaster recovery in active
 IMPLEMENTING SAME REGION DISASTER         RECOVERY IN ACTIVE PASSIVE FAILOVER POLICY
 Project details:
          In this project, I had done backup and restore the primary environment for the AWS cloud infrastructure in same region disaster recovery for active passive failover routing policy and give alert email notification for any ec2 instance state is changed for production environment.
-Project Architecture:
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+         
 Steps to build this project:
 Step 1: Create a Secure Socket Layer certificate in amazon certificate manager.
 Step 2: Create a hosted zone in Route 53 and attached to the domain.
